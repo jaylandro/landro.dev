@@ -7,5 +7,4 @@ eleventyNavigation:
   key: Home
   order: 0
 ---
-
-# Welcome to landro.dev
+# landro.dev
