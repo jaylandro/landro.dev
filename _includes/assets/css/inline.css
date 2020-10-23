@@ -130,6 +130,7 @@ article {
   border-bottom: 1px solid #eee;
   border-bottom: 1px solid var(--secondary);
   min-width: 640px;
+  padding: 1em;
 }
 
 main > section > article > * {
