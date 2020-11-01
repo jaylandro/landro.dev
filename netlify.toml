@@ -14,8 +14,9 @@
 
 [[headers]]
   for = "/deezer/*"
-  [headers.values]
+    [headers.values]
     Access-Control-Allow-Origin = "*"
+
 
 #[headers.values]
 #   X-Frame-Options = "DENY"
