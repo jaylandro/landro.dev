@@ -9,4 +9,4 @@ eleventyNavigation:
 ---
 # landro.dev
 
-![](/static/img/00100sportrait_00100_burst20200111163201292_cover.jpg)
+![]()
