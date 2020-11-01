@@ -8,14 +8,15 @@
 # For more information see:- https://www.netlify.com/docs/netlify-toml-reference/
 
 [[redirects]]
- from = "/deezer/*"
- to = "https://api.deezer.com/:splat"
- status = 200
+  from = "/deezer/*"
+  to = "https://api.deezer.com/:splat"
+  status = 200
 
 [[headers]]
-  for = "/deezer/*"
+  for = "/*"
   [headers.values]
     Access-Control-Allow-Origin = "*"
+
 
 
 #[headers.values]
