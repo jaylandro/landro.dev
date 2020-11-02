@@ -11,11 +11,9 @@
   from = "/deezer/*"
   to = "https://api.deezer.com/:splat"
   status = 200
+  force = true
+  headers = {Access-Control-Allow-Origin = "*"}
 
-[[headers]]
-  for = "/*"
-  [headers.values]
-      Access-Control-Allow-Origin = "*"
 
 
 #[headers.values]
