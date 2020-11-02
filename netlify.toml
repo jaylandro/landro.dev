@@ -10,9 +10,10 @@
 [[redirects]]
   from = "/deezer/*"
   to = "https://api.deezer.com/:splat"
-  # status = 200
-  # force = true
-  # headers = {Access-Control-Allow-Origin = "*"}
+  status = 200
+  force = true
+  [redirects.headers]
+    Access-Control-Allow-Origin = "*"
 
 [[headers]]
   # Define which paths this specific [[headers]] block will cover.
