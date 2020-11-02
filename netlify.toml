@@ -14,6 +14,12 @@
   force = true
   headers = {Access-Control-Allow-Origin = "*"}
 
+[[headers]]
+  # Define which paths this specific [[headers]] block will cover.
+  for = "/deezer/*"
+    [headers.values]
+    Access-Control-Allow-Origin = "*"
+
 
 
 #[headers.values]
