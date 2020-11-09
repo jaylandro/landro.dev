@@ -7,19 +7,19 @@
 # Redirect rule example
 # For more information see:- https://www.netlify.com/docs/netlify-toml-reference/
 
-[[redirects]]
-  from = "/deezer/*"
-  to = "https://api.deezer.com/:splat"
-  status = 200
-  force = true
-  [redirects.headers]
-    Access-Control-Allow-Origin = "*"
+# [[redirects]]
+#   from = "/*"
+#   to = "https://test.co/:splat"
+#   status = 200
+#   force = true
+#   [redirects.headers]
+#     Access-Control-Allow-Origin = "*"
 
-[[headers]]
+# [[headers]]
   # Define which paths this specific [[headers]] block will cover.
-  for = "/deezer/*"
-  [headers.values]
-    Access-Control-Allow-Origin = "*"
+  # for = "/*"
+  # [headers.values]
+  #   Access-Control-Allow-Origin = "*"
 
 
 
