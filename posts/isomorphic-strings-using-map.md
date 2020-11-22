@@ -27,3 +27,6 @@ Two strings **`string1`** and **`string2`** are called isomorphic if there is a 
   on <a href="https://codepen.io">CodePen</a>.</span>
 </p>
 <script async src="https://static.codepen.io/assets/embed/ei.js"></script>
+
+
+**[➔ ➔ Try the string comparer out on CodePen ➔ ➔](https://codepen.io/adhocracy/full/oNxrKoX)**
