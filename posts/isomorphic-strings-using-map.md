@@ -9,7 +9,9 @@ summary: As a long time front end developer, I have historically relied on the
 tags:
   - post
 ---
-Exercises like this historically have given me cold sweaty palms and heavily glazed eyes. Strong dislike! Some reasons for my aversion to exercises like these in JavaScript:
+Algorithm & Logic quizzes typically give me cold sweaty palms and a heavily glazed appearance. One of my least favorite aspects of development (wayyyy more than e2e testing or DNS!) 
+
+A couple of reasons behind my aversion to these types of exercises in JavaScript:
 
 1. For loops and nested/multi-dimensional for loops – I almost NEVER write for loops in JavaScript. Find, filter, map, reduce, filter, some, every or if I have to for each are my heavily used tools for working with Iterables. Nested for loops are rarely readable to me.
 
