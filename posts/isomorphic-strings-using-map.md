@@ -2,11 +2,11 @@
 title: Isomorphic Strings using JavaScript Map
 date: 2020-10-24T04:04:06.329Z
 author: landro
-summary: One area I have lot of room to grow is my algorithms, data structures
-  and logic approaches. As a long time front end developer, these are the types
-  of things I have historically relied on the backend wizards to flex their
-  brains. With the huge migration of application logic to the frontend. It's
-  high time I do some pushups.
+summary: One area I have room to grow is my algorithms, data structures and
+  logic approaches. As a long time front end developer, these are the types of
+  things I have historically relied on the backend wizards to flex their brains.
+  With the huge migration of application logic to the frontend. It's high time I
+  do some pushups.
 tags:
   - post
 ---
