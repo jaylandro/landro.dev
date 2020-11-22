@@ -9,7 +9,7 @@ summary: As a long time front end developer, I have historically relied on the
 tags:
   - post
 ---
-Some reasons for my aversion to exercises like these in JavaScript:
+Exercises like this historically have given me cold sweaty palms and heavily glazed eyes. Strong dislike! Some reasons for my aversion to exercises like these in JavaScript:
 
 1. For loops and nested/multi-dimensional for loops – I almost NEVER write for loops in JavaScript. Find, filter, map, reduce, filter, some, every or if I have to for each are my heavily used tools for working with Iterables. Nested for loops are rarely readable to me.
 
