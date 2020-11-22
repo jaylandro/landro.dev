@@ -1,6 +1,6 @@
 ---
 title: Isomorphic Strings using JavaScript Map
-date: 2020-10-24T04:04:06.329Z
+date: 2020-11-22T19:39:34.669Z
 author: landro
 summary: As a long time front end developer, I have historically relied on the
   backend wizards to flex their brains whenever it came to algorithms and data
