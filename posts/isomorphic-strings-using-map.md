@@ -13,6 +13,8 @@ tags:
 Some reasons for my aversion to exercises like these in JavaScript:
 
 1. For loops and nested/multi-dimensional for loops – I almost NEVER write for loops in JavaScript. Find, filter, map, reduce, filter, some, every or if I have to for each are my heavily used tools for working with Iterables. Nested for loops are rarely readable to me.
+
+
 2. Most of these types of problems benefit greatly from a **`HashMap`** or **`Dictionary`** in implementation; JavaScript has neither.
 
 Below is a logic puzzle called **Isomorphic Strings** I have no idea where this came from, but have run into it a couple times playing with leetcode or other frontend learning resources. What got me excited was the opportunity to use [JavaScript's Map() feature](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Map) to hold the Key-Value pairs in the comparison. I feel that it makes the isomorphic string matching implementation much more readable & maintainable.
