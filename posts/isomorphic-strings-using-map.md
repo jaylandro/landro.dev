@@ -9,7 +9,7 @@ summary: As a long time front end developer, I have historically relied on the
 tags:
   - post
 ---
-Algorithm & Logic quizzes typically give me cold sweaty palms and a heavily glazed appearance. One of my least favorite aspects of development (wayyyy more than e2e testing or DNS!) 
+Algorithm & Logic problems typically give me cold sweaty palms and a heavily glazed appearance. One of my least favorite aspects of development (wayyyy more than e2e testing or DNS!) 
 
 A couple of reasons behind my aversion to these types of exercises in JavaScript:
 
