@@ -12,3 +12,10 @@ tags:
 > The original string is left unchanged.
 
 <https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/replace>
+
+<p class="codepen" data-height="453" data-theme-id="light" data-default-tab="js" data-user="adhocracy" data-slug-hash="wvzwLNe" data-preview="true" style="height: 453px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="Highlight Strings with JavaScript">
+  <span>See the Pen <a href="https://codepen.io/adhocracy/pen/wvzwLNe">
+  Highlight Strings with JavaScript</a> by jlandro (<a href="https://codepen.io/adhocracy">@adhocracy</a>)
+  on <a href="https://codepen.io">CodePen</a>.</span>
+</p>
+<script async src="https://cpwebassets.sfo2.cdn.digitaloceanspaces.com/assets/embed/ei.js"></script>
