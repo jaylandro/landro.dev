@@ -11,7 +11,7 @@ eleventyNavigation:
 ---
 ## Welcome weary internet traveler
 
-When I was 12 years old, I split the cost of off brand **386sx** with a **2400 baud** modem with my parents. The world that this device unlocked has shaped who I am today.
+When I was 14 years old, I split the cost of off brand **386sx** with a **2400 baud** modem with my parents. The world that this device unlocked has shaped who I am today.
 
 ## IRC and the friends we made
 
