@@ -166,6 +166,13 @@ a[rel="tag"]:last-child {
   margin-right: 0;
 }
 
+img[src$="#profile"] {
+  position: fixed;
+  left: 50px;
+  bottom: 0;
+  max-width: 400px;
+}
+
 /* Contact Form */
 form {
   display: grid;
