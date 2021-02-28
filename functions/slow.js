@@ -4,7 +4,7 @@ exports.handler = async function (event, context) {
   const slowifyUrl =
     event.queryStringParameters.url ||
     "https://jsonplaceholder.typicode.com/posts";
-  const delay = event.queryStringParameters.delay || 2000;
+  const delay = parseInt(event.queryStringParameters.delay || 2000);
 
   try {
     await new Promise((resolve) => setTimeout(resolve, delay));
