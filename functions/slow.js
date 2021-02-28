@@ -1,3 +1,5 @@
+const fetch = require("node-fetch");
+
 exports.handler = async function (event, context) {
   try {
     await new Promise((resolve) => setTimeout(resolve, 2000));
