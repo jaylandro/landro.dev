@@ -1,10 +1,13 @@
 const fetch = require("node-fetch");
 
 exports.handler = async function (event, context) {
-  const slowifyUrl = event.queryStringParameters.url;
+  const slowifyUrl =
+    event.queryStringParameters.url ||
+    "https://jsonplaceholder.typicode.com/posts";
+  const delay = event.queryStringParameters.delay || 2000;
 
   try {
-    await new Promise((resolve) => setTimeout(resolve, 2000));
+    await new Promise((resolve) => setTimeout(resolve, delay));
 
     const response = await fetch(slowifyUrl);
 
