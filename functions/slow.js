@@ -1,12 +1,12 @@
 const fetch = require("node-fetch");
 
 exports.handler = async function (event, context) {
+  const slowifyUrl = event.queryStringParameters.url;
+
   try {
     await new Promise((resolve) => setTimeout(resolve, 2000));
 
-    const response = await fetch("https://api.github.com/users?per_page=5", {
-      Accept: "application/json",
-    });
+    const response = await fetch(slowifyUrl);
 
     if (!response.ok)
       return { statusCode: response.status, body: response.statusText };
