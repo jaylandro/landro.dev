@@ -11,8 +11,9 @@ exports.handler = async function (event, context) {
 
     const response = await fetch(slowifyUrl);
 
-    if (!response.ok)
+    if (!response.ok) {
       return { statusCode: response.status, body: response.statusText };
+    }
 
     const data = await response.json();
 
@@ -25,6 +26,7 @@ exports.handler = async function (event, context) {
     };
   } catch (err) {
     console.log(err);
+
     return {
       statusCode: 500,
       body: JSON.stringify({ msg: err.message }),
