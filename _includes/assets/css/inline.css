@@ -1,6 +1,6 @@
 :root {
   --primary: #02364c;
-  --secondary: #e2cf11;
+  --secondary: #9e0371;
   --background: #d4e1e9;
 }
 
@@ -35,6 +35,34 @@ html[data-current="home"] body {
 main {
   max-width: 70ch;
   width: 100%;
+}
+
+main h1 {
+  color: var(--secondary);
+}
+
+main p a svg {
+  vertical-align: bottom;
+  margin-right: 6px;
+}
+
+main p a[href],
+main p a[href]:visited {
+  display: inline-block;
+  margin-bottom: 0.5em;
+  font-weight: bold;
+  color: #444444;
+}
+
+main p a[href]:hover {
+  text-decoration: none;
+  color: var(--secondary);
+  fill: var(--secondary);
+}
+
+main p a[href]:hover svg {
+  color: var(--secondary);
+  fill: var(--secondary);
 }
 
 p,
