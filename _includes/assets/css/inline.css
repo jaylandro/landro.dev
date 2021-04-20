@@ -52,12 +52,13 @@ main p a[href]:visited {
   margin-bottom: 0.5em;
   font-weight: bold;
   color: #444444;
+  fill: #444444;
+  transition: all 0.5s ease-in-out;
 }
 
 main p a[href]:hover {
   text-decoration: none;
   color: var(--secondary);
-  fill: var(--secondary);
 }
 
 main p a[href]:hover svg {

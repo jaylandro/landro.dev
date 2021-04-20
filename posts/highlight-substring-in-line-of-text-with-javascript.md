@@ -12,7 +12,7 @@ tags:
 >
 > The original string is left unchanged.
 
-<https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/replace>
+[MDN - "Replace" Reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/replace)
 
 <p class="codepen" data-height="607" data-theme-id="dark" data-default-tab="result" data-user="adhocracy" data-slug-hash="wvzwLNe" style="height: 607px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="Highlight Strings with JavaScript">
   <span>See the Pen <a href="https://codepen.io/adhocracy/pen/wvzwLNe">
