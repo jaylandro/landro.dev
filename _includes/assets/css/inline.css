@@ -216,6 +216,7 @@ img[src$="#profile"] {
   left: 50px;
   bottom: 0;
   max-width: 400px;
+  z-index: -1;
 }
 
 /* Contact Form */
