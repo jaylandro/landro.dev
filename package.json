@@ -1,7 +1,7 @@
 {
   "name": "landro-dev",
   "version": "1.0.0",
-  "description": "Blog & Portfolio of Developer Jay Landro",
+  "description": "Blog & Portfolio of Developer j",
   "scripts": {
     "build": "npx eleventy",
     "watch": "npx eleventy --watch",
@@ -13,7 +13,7 @@
     "url": "https://github.com/jaylandro/landro.dev"
   },
   "author": {
-    "name": "Jay Landro",
+    "name": "j",
     "email": "jaylandro@gmail.com",
     "url": "https://landro.dev"
   },
