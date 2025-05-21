@@ -11,7 +11,7 @@ eleventyNavigation:
 # Jay Landro
 **Innovative Engineer with 20+ years of experience** developing interactive web applications, leading cross-functional teams, and building robust, maintainable software systems. Passionate about creating intuitive user interfaces and delivering exceptional user experiences. Dedicated to writing clean, well-documented code that can be easily maintained and extended by others.
 
-**Minneapolis, MN** | (612) 378-0152 | jaylandro@gmail.com | [GitHub](http://github.com/jaylandro) | [LinkedIn](https://www.linkedin.com/in/jameslandro)
+**Minneapolis, MN** | [GitHub](http://github.com/jaylandro) | [LinkedIn](https://www.linkedin.com/in/jameslandro)
 
 ## PROFESSIONAL EXPERIENCE
 
