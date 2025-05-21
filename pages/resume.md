@@ -1,3 +1,13 @@
+---
+title: Resume
+metaDescription: Jay Landro Resume 2025
+date: 2025-01-01
+permalink: /resume/index.html
+eleventyNavigation:
+  key: Resume
+  order: 3
+---
+
 # Jay Landro
 **Innovative Engineer with 20+ years of experience** developing interactive web applications, leading cross-functional teams, and building robust, maintainable software systems. Passionate about creating intuitive user interfaces and delivering exceptional user experiences. Dedicated to writing clean, well-documented code that can be easily maintained and extended by others.
 
@@ -104,6 +114,7 @@
 - **Languages**: English, Spanish
 
 ## PRESENTATIONS
+- **Visualize your Data** – Open Source North Virtual
 - **Vue: Using Computed Properties & Getters** – VueMN Meetup
 - **What the i18n?** – Open Source North
 - **UI Test Kitchen** – Open Source North
