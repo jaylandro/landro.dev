@@ -36,24 +36,24 @@ Full stack engineer specializing in interactive web applications and user experi
 - **Created interactive educational elements** teaching data analysis through practical examples
 - **Mentored team of 6 engineers** on building intuitive, instructive interfaces
 
-### PROTOLABS, Maple Plain, MN — *Frontend Architect (Contract)*
+### PROTOLABS, Maple Plain, MN — *Frontend Architect*
 *April 2017 – October 2019*
-- **Developed interactive 3D visualization components** using Three.js and WebGL
+- **Developed headless PDF generation system** using Cypress and print CSS
 - **Built component library** with 340+ JavaScript unit tests ensuring reliable experiences
 - **Led internationalization framework** enabling global content reach
 
-### UNISYS, Eagan, MN — *Developer Lead (Contract)*
+### UNISYS, Eagan, MN — *Developer Lead*
 *April 2016 – October 2018*
 - **Built interactive canvas-based application** for network visualization and configuration
 - **Led 7-person development team** using React, MobX, and Electron
 
-### NYU, New York, NY — *Frontend Developer (Contract)*
+### NYU, New York, NY — *Frontend Developer*
 *May 2014 – August 2017*
 - **Created responsive educational platform** serving 40,000 students with interactive learning tools
 
 ## Technical Skills
 
-**Languages & Core:** TypeScript (6 years), JavaScript/ES6+ (20 years), HTML5 (25 years), CSS3 (25 years)
+**Languages & Core:** TypeScript (6 years), JavaScript/ES6+ (20 years), HTML5 (25 years), CSS3 (25 years), Node (6 years), Go (2 years)
 
 **Frontend Frameworks:** React (8 years), Vue (5 years), Angular (2 years)
 
@@ -76,9 +76,8 @@ Full stack engineer specializing in interactive web applications and user experi
 - **Team Leadership:** Managed distributed engineering teams, mentored 6+ engineers
 - **Cross-functional Collaboration:** Led teams of developers, designers, and product owners
 - **Technical Communication:** Clear documentation, outcome-focused development
-- **Languages:** English, Spanish
 
 ## Recent Presentations
-- **Visualize your Data** – Open Source North Virtual
+- **Visualize your Data** – Open Source North Virtual - [slides](https://slides.com/jaylandro/visualize-your-data/fullscreen)
 - **Vue: Using Computed Properties & Getters** – VueMN Meetup
-- **What the i18n?** – Open Source North
+- **What the i18n?** – Open Source North [slides](https://osn-i18n.netlify.app/)
