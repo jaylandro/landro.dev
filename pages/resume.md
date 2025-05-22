@@ -9,112 +9,76 @@ eleventyNavigation:
 ---
 
 # Jay Landro
-**Innovative Engineer with 20+ years of experience** developing interactive web applications, leading cross-functional teams, and building robust, maintainable software systems. Passionate about creating intuitive user interfaces and delivering exceptional user experiences. Dedicated to writing clean, well-documented code that can be easily maintained and extended by others.
+**Innovative Engineer with 20+ years developing interactive web applications**
 
 **Minneapolis, MN** | [GitHub](http://github.com/jaylandro) | [LinkedIn](https://www.linkedin.com/in/jameslandro)
 
-## PROFESSIONAL EXPERIENCE
+## Professional Summary
+Full stack engineer specializing in interactive web applications and user experience design. Proven track record leading cross-functional teams and building maintainable software systems. Expert in creating intuitive interfaces, educational tools, and data visualization platforms that serve thousands of users.
 
-### CAREGIVING, Minneapolis, MN — *Career break*
-*AUGUST 2024 – APRIL 2025*
-- Used this time to experiment with AI-assisted development workflows and explore new technologies in interactive web applications
-- Explored open-source projects focused on educational interactive components
-- Studied functional programming paradigms through self-directed learning
+## Professional Experience
 
-### MARRIOTT INTERNATIONAL, Bethesda, MD — Cloud Engineer & Team Lead
-*SEPTEMBER 2023 – JULY 2024*
-- **Led cross-functional teams** of developers, designers, and product owners to deliver user-facing applications
-- **Built interactive UI components and APIs** with TypeScript that balanced simplicity, maintainability, and extensibility
-- **Documented code and systems** with clarity that enabled new team members and AI tools to efficiently utilize them
-- **Implemented automated testing frameworks** ensuring robust, error-free interactive elements
-- **Technologies**: TypeScript, React, NX, Kubernetes, CI/CD, AWS
+### MARRIOTT INTERNATIONAL, Bethesda, MD — *Cloud Engineer & Team Lead*
+*September 2023 – November 2024*
+- **Led cross-functional teams** delivering user-facing applications with TypeScript, React, and AWS
+- **Implemented automated testing frameworks** ensuring robust interactive elements
+- **Documented systems** enabling efficient utilization by new team members and AI tools
 
-### VERICA, Fairfax, VA — Engineering Manager
-*OCTOBER 2021 – JULY 2023*
-- **Guided distributed engineering team** in designing clear, expressive APIs and interactive visualizations
-- **Dramatically improved onboarding experience**, reducing time-to-first-contribution from 1 month to 5 hours through enhanced documentation and intuitive code organization
-- **Led successful replatforming initiative** while maintaining seamless user experience and meeting all deadlines
+### VERICA, Fairfax, VA — *Engineering Manager*
+*October 2021 – July 2023*
+- **Improved onboarding experience** from 1 month to 5 hours through enhanced documentation
+- **Led replatforming initiative** while maintaining seamless user experience
 - **Created interactive visualizations** of complex system behaviors using TypeScript and React
-- **Technologies**: TypeScript, React, Go, Kubernetes, AWS/GCP cloud services
 
-### IBM, San Jose, CA — Hybrid Cloud Developer
-*MAY 2021 – OCTOBER 2021*
-- **Architected user console interface** with focus on intuitive interaction patterns and educational onboarding
-- **Designed interactive tutorials** to help users understand complex cloud concepts through guided experiences
-- **Established best practices** for API design, documentation, and implementation across the team
-- **Technologies**: React, MobX State Tree, TypeScript
+### MODE ANALYTICS, San Francisco, CA — *Engineering Manager / Senior Software Engineer*
+*October 2019 – May 2021*
+- **Directed development of visual data analysis tools** serving 65,000+ non-technical users
+- **Created interactive educational elements** teaching data analysis through practical examples
+- **Mentored team of 6 engineers** on building intuitive, instructive interfaces
 
-### MODE ANALYTICS, San Francisco, CA — Engineering Manager
-*APRIL 2020 – MAY 2021*
-- **Directed development of visual data analysis tools** enabling 65,000+ non-technical users to explore and learn from data
-- **Created interactive educational elements** teaching users data analysis concepts through practical examples
-- **Implemented quality-focused workflows** including rigorous code review, testing, and documentation standards
-- **Mentored team of 6 engineers** on best practices for building intuitive, instructive interfaces
-- **Technologies**: Angular, TypeScript, HTML5, CSS3
+### PROTOLABS, Maple Plain, MN — *Frontend Architect (Contract)*
+*April 2017 – October 2019*
+- **Developed interactive 3D visualization components** using Three.js and WebGL
+- **Built component library** with 340+ JavaScript unit tests ensuring reliable experiences
+- **Led internationalization framework** enabling global content reach
 
-### MODE ANALYTICS, San Francisco, CA — Senior Software Engineer
-*OCTOBER 2019 – APRIL 2020*
-- **Redesigned frontend routing architecture** to simplify navigation through complex interactive workflows
-- **Built documentation system** that made complex concepts accessible through interactive examples
-- **Collaborated with design team** to create cohesive, intuitive user experiences
-- **Technologies**: Angular, TypeScript, HTML5, CSS3
-
-### SOLUTION DESIGN GROUP (SDG), Golden Valley, MN — Senior UI/UX Engineer
-*MARCH 2014 – OCTOBER 2019*
-
-#### Protolabs, Maple Plain, MN — Frontend Architect
-*APRIL 2017 – OCTOBER 2019 - CONTRACT*
-- **Developed interactive 3D visualization components** for manufacturing previews using Three.js and WebGL
-- **Led implementation of internationalization framework** enabling educational content to reach global audiences
-- **Built robust testing suite** with 340+ JavaScript unit tests ensuring reliable interactive experiences
-- **Created component library** of reusable, composable UI elements with clear documentation
-- **Technologies**: Vue, TypeScript, Jest, .NET Core, Docker
-
-#### Unisys, Eagan, MN — Developer Lead
-*APRIL 2016 – OCTOBER 2018 - CONTRACT*
+### UNISYS, Eagan, MN — *Developer Lead (Contract)*
+*April 2016 – October 2018*
 - **Built interactive canvas-based application** for network visualization and configuration
-- **Led 7-person development team** balancing velocity with quality while maintaining focus on user outcomes
-- **Designed intuitive drag-and-drop interfaces** making complex network concepts accessible to users
-- **Technologies**: React, MobX, Sigma.js, Electron, Node.js
+- **Led 7-person development team** using React, MobX, and Electron
 
-#### NYU, New York, NY — Frontend Developer
-*MAY 2014 – AUGUST 2017 - CONTRACT*
+### NYU, New York, NY — *Frontend Developer (Contract)*
+*May 2014 – August 2017*
 - **Created responsive educational platform** serving 40,000 students with interactive learning tools
-- **Implemented gamification elements** to increase student engagement with educational content
-- **Built interactive components** for schedule planning, campus navigation, and resource discovery
-- **Technologies**: JavaScript, HTML5, CSS3, Java
 
-### SPORTSDIGITA, Minneapolis, MN — Frontend Developer
-*MARCH 2013 – MARCH 2014*
-- **Developed interactive media experiences** for major sports teams with engaging visuals and game-like elements
-- **Created 20+ interactive micro-sites** focused on fan engagement and education
-- **Built immersive, intuitive user interfaces** optimized for touchscreen interaction
-- **Technologies**: JavaScript, HTML5, CSS3, Angular, MongoDB
+## Technical Skills
 
-## TECHNICAL SKILLS
-- **Languages**: TypeScript (6 years), JavaScript/ES6+ (20 years), HTML5 (25 years), CSS3 (25 years)
-- **Frontend Frameworks**: React (8 years), Vue (5 years), Angular (2 years)
-- **State Management**: Redux, MobX, Vuex
-- **Animation/Interactive**: Canvas, SVG, WebGL, Three.js
-- **Testing**: Jest, Cypress, Puppeteer
-- **Architecture**: API Design, Component Libraries, Documentation
-- **Tools**: Git, VS Code, AI-assisted development
+**Languages & Core:** TypeScript (6 years), JavaScript/ES6+ (20 years), HTML5 (25 years), CSS3 (25 years)
 
-## RELEVANT PROJECTS & ACHIEVEMENTS
+**Frontend Frameworks:** React (8 years), Vue (5 years), Angular (2 years)
+
+**State Management:** Redux, MobX, Vuex
+
+**Interactive/Visual:** Canvas, SVG, WebGL, Three.js
+
+**Testing & Tools:** Jest, Cypress, Git, VS Code, AI-assisted development
+
+**Architecture:** API Design, Component Libraries, Documentation
+
+## Key Achievements
 - Created interactive data visualization tools helping non-technical users understand complex datasets
 - Built educational game-like experiences for onboarding users to complex applications
 - Developed component libraries focused on composability and reusability
-- Implemented internationalization frameworks for global educational content
-- Consistently prioritized user experience and learning outcomes in technical decision-making
+- Reduced team onboarding time from 1 month to 5 hours through enhanced documentation
+- Led successful replatforming initiatives while maintaining seamless user experiences
 
-## ADDITIONAL SKILLS
-- **Communication**: Clear technical documentation, cross-functional collaboration
-- **Leadership**: Mentorship, team building, setting standards of excellence
-- **Process**: Balancing velocity with quality, outcome-focused development
-- **Languages**: English, Spanish
+## Leadership & Communication
+- **Team Leadership:** Managed distributed engineering teams, mentored 6+ engineers
+- **Cross-functional Collaboration:** Led teams of developers, designers, and product owners
+- **Technical Communication:** Clear documentation, outcome-focused development
+- **Languages:** English, Spanish
 
-## PRESENTATIONS
+## Recent Presentations
 - **Visualize your Data** – Open Source North Virtual
 - **Vue: Using Computed Properties & Getters** – VueMN Meetup
 - **What the i18n?** – Open Source North
-- **UI Test Kitchen** – Open Source North
